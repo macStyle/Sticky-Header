@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "gadget-addiction-lifestyle-concept-relaxed-pleased-interracial-couple-sit-back-each-other-ignore-live-communication-use-modern-mobile-phones copy.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
